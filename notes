@@ -1,0 +1,40 @@
+
+brief: make a morse code converter
+
+flow:
+
+    1. could make a dictionary which will have the letters as the key and the morse as the value
+        morse_code = {'A':'..', etc}
+
+    2. ask user if they want to input:
+
+        if yes -> prompt them to new input where they can type their sentence
+
+        if no -> exit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
